@@ -1,46 +1,44 @@
-# Getting Started with Create React App
+<p align="center">
+ 🚀 <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ 💻 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ 🔖 <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ 🤔 <a href="#-como-usar">Como Usar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ :memo: <a href="#memo-licença">Licença</a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img alt="expense-tracker" src="https://cdn.discordapp.com/attachments/784133268592132107/921177907819347978/expense-tracker_typescript.png" width="100%">
+</p>
 
-## Available Scripts
+## 🚀 Tecnologias
 
-In the project directory, you can run:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-### `yarn start`
+- Styled-Components
+- Typescript
+- React JS
+- Hooks como useEffect e useState
+- NodeJs
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 💻 Projeto
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+O intuito do projeto é para um gerenciamento de finanças, onde você pode ter o controle em tempo real dos gastos e lucros, além de poder se planejar para futuros saldos.
 
-### `yarn test`
+## 🤔 Como Usar
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 1º passo: Baixar o Arquivo que está nesse repositório com todo o código da aplicação;
+- 2º passo: Entrar na pasta onde o Arquivo foi baixado (através do CMD ou do GitBash ou algum outro Terminal);
+- 3º passo: Digite npm install para instalar a dependência do pacote node;
+- 4º passo: Digitar o npm start para iniciar a aplicação.
 
-### `yarn build`
+## 📚 Aprendizado
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Através dessa aplicação pude aprimorar e conhecer novos conceitos de Typescript com React Js. Com o projeto, consegui desenvolver minha lógica e melhorar as técnicas.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :memo: Licença
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes
 
-### `yarn eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Desenvolvido por Guilherme Ferreira.
